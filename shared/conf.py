@@ -64,7 +64,7 @@ if on_rtd:
     html_context["github_base_account"] = 'edx'
     html_context["github_project"] = 'edx-documentation'
 
-html_theme = 'sphinx_rtd_theme'
+html_theme = 'pyramid'
 
 html_theme_path = '/default.css'
 
