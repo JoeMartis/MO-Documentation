@@ -8,6 +8,7 @@ Building and Running an Open edX Course: Maple Release
    :numbered:
    :maxdepth: 2
 
+   release/index
    front_matter/index
    getting_started/index
    CA_dashboard_profile_SectionHead
