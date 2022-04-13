@@ -64,9 +64,9 @@ if on_rtd:
     html_context["github_base_account"] = 'edx'
     html_context["github_project"] = 'edx-documentation'
 
-html_theme = 
+html_theme = '/default.css'
 
-html_theme_path = '/deafult.css'
+html_theme_path = '/default.css'
 
 html_theme_options = {}
 html_theme_options['navigation_depth'] = 3
