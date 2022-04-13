@@ -1,1 +1,7 @@
-.. include:: ../../../shared/accessibility/edX_accessib_guidelines.rst
+.. _Relevant Release Notes:
+
+############################################################
+Relevant Release Notes
+############################################################
+
+These are a bunch of release notes
