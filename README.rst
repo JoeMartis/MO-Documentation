@@ -1,5 +1,5 @@
 ###################
-MITx ONline Documentation
+MITx Online Documentation
 ###################
 
 The MITx Online repository contains source files for most of the
