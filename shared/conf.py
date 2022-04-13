@@ -64,7 +64,7 @@ if on_rtd:
     html_context["github_base_account"] = 'edx'
     html_context["github_project"] = 'edx-documentation'
 
-html_theme = '/default.css'
+html_theme = 'alabaster'
 
 html_theme_path = '/default.css'
 
