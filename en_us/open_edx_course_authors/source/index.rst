@@ -1,7 +1,7 @@
-.. _Building and Running an Open edX Course:
+.. _Building and Running an MITx Online Course:
 
 ######################################################
-Building and Running an Open edX Course: Maple Release
+Building and Running an MITx Online Course: Maple Release
 ######################################################
 
 .. toctree::
