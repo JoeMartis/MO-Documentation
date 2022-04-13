@@ -3,10 +3,10 @@
 .. _Browsers:
 
 ####################
-edX Browser Support
+MITx Online Browser Support
 ####################
 
-Most current browsers will work on edX.org. For best performance, we recommend the latest versions of:
+Most current browsers will work on mitxonline.mit.edu. For best performance, we recommend the latest versions of:
 
 * `Chrome`_
 * `Firefox`_
