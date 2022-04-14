@@ -146,7 +146,7 @@ if the_builder != "json":
 
 # General information about the project.
 
-copyright = '{year}, edX Inc.'.format(year=datetime.datetime.now().year)
+copyright = '{year}, MITx'.format(year=datetime.datetime.now().year)
 
 # Intersphinx manages the connections between books.
 # Normally the references in a book are downloaded from readthedocs.  But you
